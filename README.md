@@ -11,7 +11,7 @@ the process for uploading said website so that others may benifit from its funct
 ## Installation
 
 There are no steps to installing this website all the functionality is located at:
-[**insert url here**](https://andrewross4224.github.io/prework-study-guide/)
+https://andrewross4224.github.io/prework-study-guide/
 
 ## Usage
 
